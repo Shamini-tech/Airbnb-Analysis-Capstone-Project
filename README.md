@@ -29,7 +29,7 @@ The dataset is the Airbnb NYC 2019 listings file (`AB_NYC_2019.csv`), with 48,89
 - **Review metrics:** number of reviews, last review date, reviews per month
 - **Host and availability:** number of listings per host, days available per year
 
-Source: [New York City Airbnb Open Data (Kaggle)] (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+Source: [New York City Airbnb Open Data (Kaggle)](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
 ## Notebook 1: Exploratory Data Analysis
 
